@@ -11,7 +11,10 @@ pip install pipreqs
 pipreqs .
 ```
 
+## run api
+run the command: `python3 app.py`
 
 
+## run unit tests
+run the command: `python -m pytest`
 
-# api-python-flask-restful-auth
